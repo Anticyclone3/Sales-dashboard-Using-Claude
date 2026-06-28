@@ -2,7 +2,7 @@
 
 > An interactive, AI-narrated business intelligence dashboard built for executive decision-making — turning 9,994 raw retail transactions into a boardroom-ready analytical tool with conversational AI.
 
-🎥 **[Watch the demo video](#)** *(add your screen recording link here)*
+🎥 **[Watch the demo video](#)** *(https://drive.google.com/file/d/1ggxn_Ilr31eikHURY8jnEu15-skoXzlG/view?usp=sharing)*
 
 ---
 
